@@ -1,0 +1,41 @@
+VPN Interview Questions – Detailed Answers
+
+1. What is a VPN?
+A VPN (Virtual Private Network) is a technology that creates a secure and encrypted connection over a less secure network, such as the internet. It allows users to send and receive data as if their devices were directly connected to a private network, helping protect sensitive information and online identity.
+
+2. How does a VPN protect privacy?
+A VPN protects privacy by encrypting all the data that travels between your device and the internet. This prevents ISPs, hackers, or third parties from monitoring your activities. It also hides your IP address by routing your traffic through a VPN server, masking your real location and identity.
+
+3. Difference between VPN and proxy?
+- A VPN encrypts your entire internet connection and routes all traffic through a secure tunnel. It ensures privacy and security.
+- A proxy only redirects specific application traffic (like your web browser), usually without encryption.
+- VPNs offer better security and privacy, while proxies are faster but less secure.
+
+4. What is encryption in VPN?
+Encryption in VPN means converting your data into a coded format so that only authorized parties (with the correct decryption key) can understand it. VPNs typically use strong encryption standards like AES-256 or ChaCha20 to protect data from interception or surveillance.
+
+5. Can VPN guarantee complete anonymity?
+No, VPNs do not guarantee complete anonymity. While they hide your IP address and encrypt traffic, websites can still track you using cookies, browser fingerprinting, or account logins. Also, if the VPN provider logs your activity or suffers a breach, your data could be exposed.
+
+6. What protocols do VPNs use?
+VPNs use tunneling protocols to establish secure connections. Common ones include:
+- OpenVPN: Highly secure and widely used.
+- WireGuard: Fast and lightweight.
+- IKEv2/IPSec: Stable and mobile-friendly.
+- L2TP/IPSec: Older, moderately secure.
+- PPTP: Outdated and insecure (not recommended).
+
+7. What are some VPN limitations?
+- Reduced speed due to encryption overhead.
+- Some websites or services block VPN traffic.
+- Not all VPNs have strong no-log policies.
+- Free VPNs may track or sell your data.
+- VPN use may be illegal or restricted in certain countries.
+
+8. How does a VPN affect network speed?
+A VPN can slow down your internet speed because your data is encrypted and routed through a remote server. The impact depends on:
+- Server distance
+- Encryption level
+- Server load
+- Your base internet speed
+Premium VPN services usually minimize this speed loss.
